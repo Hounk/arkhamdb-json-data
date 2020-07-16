@@ -1,15 +1,15 @@
 [
     {
         "code": "05186",
-        "name": ".45 Thompson",
-        "text": "Uses (5 ammo).\nAmmo spent from .45 Thompson is placed in your resource pool, as resources.\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] and deal +1 damage for this attack.",
+        "name": "45er Thompson",
+        "text": "Anwendungen (5 Munition).\nFür die 45er Thompson ausgegebene Munition wird als Ressource in deinem Ressourcenvorrat platziert.\n[action] Gib 1 Munition aus: <b>Kampf.</b> Du bekommst für diesen Angriff +2 [combat] und fügst +1 Schaden zu.",
         "traits": "Item. Weapon. Firearm. Illicit.",
         "slot": "Hand x2"
     },
     {
         "code": "05187",
-        "name": ".45 Thompson",
-        "text": "Uses (5 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] and deal +1 damage for this attack. If you succeed by at least X, you may spend 1 ammo to deal this attack's damage to another enemy at your location, where X is that enemy's fight value.",
+        "name": "45er Thompson",
+        "text": "Anwendungen (5 Munition).\n[action] Fib 1 Munition aus: <b>Kampf.</b> Du bekommst für diesen Angriff +2 [combat] und fügst +1 Schaden zu. Falls dir diese Probe mindestens um X gelingt, darfst du 1 Munition ausgeben, um den Schaden dieses Angriffs einem anderen Gegner an deinem Ort zuzufügen, wobei X der Kampfwert jenes Gegners ist.",
         "traits": "Item. Weapon. Firearm. Illicit.",
         "slot": "Hand x2"
     },
